@@ -27,5 +27,3 @@
   <img align="center" alt="Kevin-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Kevin-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </div>
-  
-    ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966](https://user-images.githubusercontent.com/62913144/164561476-e453e0e0-4842-4954-8404-3d378e1415c2.gif)
