@@ -117,8 +117,8 @@
       <br>TypeScript
     </td>
         <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="kafka" />
+      <br>Apache Kafka
     </td>
      <td align="center" width="96">
       <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -133,10 +133,10 @@
       <br>Golang
     </td>
     <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="arduino" />
       </a>
-      <br>MySQL
+      <br>Arduino
     </td>
      <td align="center" width="96">
         <a href="#next">
