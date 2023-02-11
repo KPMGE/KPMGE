@@ -22,8 +22,8 @@
 
   <tr>
      <td align="center" width="96">
-      <a href="#nuxtjs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="48" height="48" alt="VIM" />
+      <a href="#vim">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="VIM" />
       </a>
       <br>VIM
     </td>
@@ -109,10 +109,10 @@
 </tr>
 <tr>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      <a href="#c++">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="c++" />
       </a>
-      <br>Nuxt JS
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#ts">
