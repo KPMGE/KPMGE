@@ -143,11 +143,11 @@
       <br>MySQL
     </td>
      <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+        <a href="#next">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"
                 alt="livewire" />
         </a>
-        <br>Livewire
+        <br>Next
     </td>
     <td align="center" width="96">
         <a href="#c">
