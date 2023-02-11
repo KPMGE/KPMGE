@@ -6,6 +6,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPMGE&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
+<br>
 > Tools and technologies that I have worked with and am interested in
 
 <table align="center">
