@@ -134,8 +134,8 @@
       <br>MySQL
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="golang" />
+      <br>Golang
     </td>
     <td align="center" width="96">
       <a href="#laravel">
