@@ -38,7 +38,7 @@
   <tr>
      <td align="center" width="96">
       <a href="#nuxtjs">
-        <img src="[https://i.ibb.co/LzmYpDX/146-1466902-vim-logo-png-transparent-vim-logo-png-png-removebg-preview.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg)" width="48" height="48" alt="VIM" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="48" height="48" alt="VIM" />
       </a>
       <br>VIM
     </td>
