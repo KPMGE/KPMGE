@@ -7,11 +7,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kevin-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Kevin-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Kevin-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Kevin-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Kevin-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </div>
   
    Jubayer Riyad favorite tools and technologies ⚙️ 
@@ -23,7 +19,7 @@
   <tr>
      <td align="center" width="96">
       <a href="#vim">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="VIM" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="48" height="48" alt="VIM" />
       </a>
       <br>VIM
     </td>
@@ -91,8 +87,8 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="java" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
