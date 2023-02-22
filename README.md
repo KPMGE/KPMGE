@@ -173,8 +173,8 @@
       <br>React js
     </td>
       <td align="center" width="96">
-      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-      <br>Postgress
+      <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> 
+      <br>Jira
     </td>
       <td align="center" width="96">
       <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="webpack" width="40" height="40"/> </a> 
