@@ -1,3 +1,4 @@
+
 # Kevin Carvalho de Jesus
 
 <div align="center">
@@ -99,6 +100,7 @@
       <br>Nest
     </td>
 </tr>
+
 <tr>
      <td align="center" width="96">
       <a href="#c++">
@@ -149,6 +151,7 @@
         <br>C
     </td>
  </tr>
+ 
 <tr>
      <td align="center" width="96">
       <a href="#saas" >
@@ -195,14 +198,16 @@
       <br>Mongo
     </td>
     
+</tr>
     
-    <td align="center" width="96">
+<tr>
+  <td align="center" width="96">
   <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
       <br>Ruby
     </td>
     
     
-    <td align="center" width="96">
+  <td align="center" width="96">
   <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a>
       <br>Slack
     </td>
