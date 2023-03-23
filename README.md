@@ -189,9 +189,53 @@
      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Node js
     </td>
+    
     <td align="center" width="96">
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <br>Mongo
     </td>
+    
+    
+    <td align="center" width="96">
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+      <br>Ruby
+    </td>
+    
+    
+    <td align="center" width="96">
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a>
+      <br>Slack
+    </td>
+    
+    <td align="center" width="96">
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/> </a>
+      <br>Socket.io
+    </td>
+    
+    <td align="center" width="96">
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
+      <br>SQLite
+    </td>
+    
+    <td align="center" width="96">
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/> </a>
+      <br>Ssh
+    </td>
+    
+    <td align="center" width="96">
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
+      <br>Yarn
+    </td>
+    
+    <td align="center" width="96">
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
+      <br>Npm
+    </td>
+    
+    <td align="center" width="96">
+  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
+      <br>Lua
+    </td>
+    
   </tr>
 </table>
