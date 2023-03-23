@@ -276,7 +276,7 @@
       <td align="center" width="96">
       <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png"
           alt="asembly" width="40" height="40" /> </a>
-      <br>Lua
+      <br>Assembly
     </td>
   </tr>
 </table>
