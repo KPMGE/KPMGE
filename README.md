@@ -1,5 +1,4 @@
-
-# Kevin Carvalho de [Jesus](Jesus)
+# Kevin Carvalho de Jesus
 
 <div align="center">
   <a href="https://github.com/KPMGE">
