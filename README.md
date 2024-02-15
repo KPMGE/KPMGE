@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="96">
       <a href="#rust">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48"
           alt="Rust" />
       </a>
       <br>Rust
