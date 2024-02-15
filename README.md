@@ -108,19 +108,6 @@
         alt="java" />
       <br>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48"
-        alt="nest" />
-      <br>Nest
-    </td>
   </tr>
 
   <tr>
@@ -291,6 +278,21 @@
       <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png"
           alt="asembly" width="40" height="40" /> </a>
       <br>Assembly
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48" height="48"
+        alt="nest" />
+      <br>Nest
     </td>
   </tr>
 </table>
